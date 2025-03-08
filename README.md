@@ -1,6 +1,6 @@
 # Financial Econometrics
 
-Project developed in light of the course.
+Projects developed in light of the course.
 
 The goal of this project was to create a Python version of the PSY Monitor R library from itamarcaspi, which can be found in the following repository: [PSY Monitor](https://github.com/itamarcaspi/psymonitor).
 
